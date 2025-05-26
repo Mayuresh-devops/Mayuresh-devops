@@ -26,5 +26,3 @@
 
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/mayuresh-kurhe
-[facebook]: https://www.facebook.com/Mayureshkurhe
-[github]: https://github.com/Mayuresh-devops
