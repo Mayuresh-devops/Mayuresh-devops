@@ -12,6 +12,7 @@
 
 ## Certifications
 
+AWS 
 
 ## 👨‍💻 Technologies and Tools
 
