@@ -31,4 +31,3 @@
 
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/mayuresh-kurhe
-[aws-certified-cloud-practitioner]: https://www.credly.com/badges/5d53dec2-c22b-4efe-a7de-886e4e641844/public_url
