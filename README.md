@@ -12,6 +12,7 @@
 
 ## Certifications
 
+https://vscode.dev/github/Mayuresh-devops/Mayuresh-devops/blob/main/aws-certified-cloud-practitioner.png
 
 ## 👨‍💻 Technologies and Tools
 
