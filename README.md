@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently doing **DevOps**
 - 📫 How to reach me **mayureshkurhe7@gmail.com**
-- 💼
+- 💼 Portfolio
 
 ## 😎 Connect with me
 
