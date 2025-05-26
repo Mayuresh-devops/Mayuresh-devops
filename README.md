@@ -11,7 +11,6 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-    !
 
 ## 👨‍💻 Technologies and Tools
 
