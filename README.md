@@ -11,9 +11,10 @@
 
 ## Certifications
 
-```
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d53dec2-c22b-4efe-a7de-886e4e641844" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d53dec2-c22b-4efe-a7de-886e4e641844" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ## 👨‍💻 Technologies and Tools
 
