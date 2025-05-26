@@ -12,8 +12,6 @@
 
 ## Certifications
 
-/Users/mayureshkurhe/Documents/DevOps/Github/Mayuresh-devops/aws-certified-cloud-practitioner.png
-
 
 ## 👨‍💻 Technologies and Tools
 
