@@ -11,7 +11,7 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-    [![AWS Certified Cloud Practitioner](https://github.com/Mayuresh-devops/Mayuresh-devops/blob/799a369cb1f65d7de2e82ef8146e9b4aa242caab/aws-certified-cloud-practitioner.png)]( https://www.credly.com/badges/5d53dec2-c22b-4efe-a7de-886e4e641844/public_url)
+    [![AWS](https://github.com/Mayuresh-devops/Mayuresh-devops/blob/799a369cb1f65d7de2e82ef8146e9b4aa242caab/aws-certified-cloud-practitioner.png)]( https://www.credly.com/badges/5d53dec2-c22b-4efe-a7de-886e4e641844/public_url)
 
 ## 👨‍💻 Technologies and Tools
 
