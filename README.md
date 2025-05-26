@@ -11,7 +11,7 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-    ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&)
+    ![AWS](aws-certi)
 
 ## 👨‍💻 Technologies and Tools
 
