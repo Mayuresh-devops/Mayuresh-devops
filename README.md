@@ -30,4 +30,4 @@
 
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/mayuresh-kurhe
-[aws]
+[aws-certified-cloud-practi]
