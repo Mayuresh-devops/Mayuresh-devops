@@ -1,8 +1,6 @@
 # Hi there, I'm Mayuresh! 👋
 
-## DevOps Engineer
-
-- 📫 How to reach me **mayureshkurhe7@gmail.com**
+Immediate Joiner | AWS Certified Cloud Practitioner | DevOps Engineer ⚙️ | Continuous Learner | Git 🧑‍💻, Terraform 🌍, Docker 🐳, Kubernetes ☸️, CI/CD (Jenkins) 🚀, AWS ☁️, Linux 🖥️- 📫 How to reach me **mayureshkurhe7@gmail.com**
 
 ## 😎 Connect with me
 
@@ -11,7 +9,6 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-
 
 ## 👨‍💻 Technologies and Tools
 
