@@ -8,8 +8,6 @@
 
 [Linkedin][linkedin]
 
-<!-- [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram] -->
-
 ## 👨‍💻 Technologies and Tools
 
 | Category           | Tools                                                                                                                                                                                                                                                                                                                                                                                                                      |
