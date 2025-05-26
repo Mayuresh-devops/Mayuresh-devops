@@ -11,7 +11,7 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-    ![AWS-](aws-certified-cloud-practitioner)
+    ![AWS Certified Cloud Practitioner](aws-certified-cloud-practitioner)
 
 ## 👨‍💻 Technologies and Tools
 
