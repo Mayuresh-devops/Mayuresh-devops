@@ -11,7 +11,7 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-    ![AWS]
+    
 
 ## 👨‍💻 Technologies and Tools
 
