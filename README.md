@@ -9,6 +9,7 @@
 
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
+
 ## 👨‍💻 Technologies and Tools
 
 | Category           | Tools                                                                                                                                                                                                                                                                                                                                                                                                                      |
