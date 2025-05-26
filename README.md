@@ -12,7 +12,7 @@
 
 ## Certifications
 
-[AWS Certified Cloud Pract]()
+[AWS Certified Cloud Practitioner]()
 
 ## 👨‍💻 Technologies and Tools
 
