@@ -12,6 +12,7 @@
 
 ## Certifications
 
+
 ## 👨‍💻 Technologies and Tools
 
 | Category           | Tools                                                                                                                                                                                                                                                                                                                                                                                                                      |
