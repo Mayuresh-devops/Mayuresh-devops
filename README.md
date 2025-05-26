@@ -1,6 +1,6 @@
 # Hi there, I'm Mayuresh! 👋
 
-## De
+## DevOps Engineer
 
 - 📫 How to reach me **mayureshkurhe7@gmail.com**
 
