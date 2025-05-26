@@ -11,7 +11,7 @@
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
 ## Certifications
-    [![AWS Certified Cloud Practitioner]()]()
+    [![AWS Certified Cloud Practitioner]()](https://www.credly.com/badges/5d53dec2-c22b-4efe-a7de-886e4e641844/public_url)
 
 ## 👨‍💻 Technologies and Tools
 
