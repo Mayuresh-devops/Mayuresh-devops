@@ -14,6 +14,7 @@
 
 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5d53dec2-c22b-4efe-a7de-886e4e641844/public_url)
 
+[Badge](https://github.com/Mayuresh-devops/Mayuresh-devops/blob/799a369cb1f65d7de2e82ef8146e9b4aa242caab/aws-certified-cloud-practitioner.png)
 
 ## 👨‍💻 Technologies and Tools
 
