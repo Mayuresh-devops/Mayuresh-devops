@@ -2,7 +2,7 @@
 
 ## AWS Certified Cloud Practitioner | DevOps Engineer ⚙️ | Continuous Learner | Git 🧑‍💻, Terraform 🌍, Docker 🐳, Kubernetes ☸️, CI/CD (Jenkins) 🚀, AWS ☁️, Linux 🖥️
 
-- 📫 How to reach me **mayureshkurhe7@gmail.com**
+### - 📫 How to reach me **mayureshkurhe7@gmail.com**
 
 ## 😎 Connect with me
 
