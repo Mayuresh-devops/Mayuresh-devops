@@ -5,7 +5,7 @@
 
 ## 😎 Connect with me
 
-🔗[Linkedin][linkedin]
+🔗[LinkedIn][linkedin]
 
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
