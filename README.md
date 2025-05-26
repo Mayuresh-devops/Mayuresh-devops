@@ -12,6 +12,8 @@
 
 ## Certifications
 
+    aws-certified-cloud-practitioner.png
+
 
 ## 👨‍💻 Technologies and Tools
 
