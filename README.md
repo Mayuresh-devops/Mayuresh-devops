@@ -9,7 +9,9 @@
 
 💼 [Portfolio](https://mayureshkurheportfolio.framer.website/)
 
-## Cert
+## Certifications
+
+* Aws
 
 ## 👨‍💻 Technologies and Tools
 
